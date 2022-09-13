@@ -46,9 +46,34 @@ body, html{
     margin:auto 10vw;
 }
 
+.k1{
+    background-image: url("https://www.worldatlas.com/r/w2560-q80/upload/df/ef/b6/shutterstock-1439898458.jpg");
+}
+
 .k4{
     /* The image used */
-    background-image: url('https://github.com/RavindraWiguna/parallaxweb/blob/master/images/bigfreezemidjourney.png');
+    background-image: url('https://github.com/RavindraWiguna/parallaxweb/blob/master/images/bigfreezemidjourney.png?raw=true');
+}
+
+.k2{
+    /* The image used */
+    background-image: url('https://www.universetoday.com/wp-content/uploads/2015/05/11universes.jpg');
+}
+
+.k3{
+    background-image: url("https://wallpaper.dog/large/11010013.jpg");
+}
+
+.k5{
+    background-image: url("https://mediacloud.theweek.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1603041233/theweek/2015/07/150703-big-rip.jpg");
+}
+
+.k6{
+    background-image: url("https://bigthink.com/wp-content/uploads/2022/05/crunchy.jpg");
+}
+
+.k7{
+    background-image: url("https://d2r55xnwy6nx47.cloudfront.net/uploads/2020/08/Bouncing-Universe-2880x1620-Lede.jpg?w=144");
 }
 
 ol{
